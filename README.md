@@ -1,2 +1,2 @@
 # gaticc3939
-iam developing quant backtest tools for me To become better quant trader
+iam a high school student passionated about quantative trading creating model 
